@@ -1,3 +1,4 @@
+//given that both rectangle in first quadrant 
 using namespace std;
 #include<iostream>
 int area(int a1,int b1,int a2,int b2,int a3,int b3,int a4,int b4){
