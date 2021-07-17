@@ -24,8 +24,8 @@ class Stack{
         if(capacity ==nextindex){
             cout<<"stack is full"<<endl;
         }
-        data[nextindex]=element ;
-        nextindex++;
+       else{  data[nextindex]=element ;
+        nextindex++;}
     }
     void pop(){
         if(nextindex==0){
